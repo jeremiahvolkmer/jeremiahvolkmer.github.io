@@ -1,0 +1,17 @@
+# Site settings
+remote_theme: "Jekyll Theme - BlogFolio"
+name: name
+email: email
+url: url
+description: "A blog and a portfolio"
+author: "author"
+title: "BlogFolio"
+permalink: pretty
+baseurl: /
+
+# social
+github:
+  username: username
+
+twitter:
+  username: username
