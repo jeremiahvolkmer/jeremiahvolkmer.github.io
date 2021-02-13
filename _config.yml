@@ -1,17 +1,17 @@
 # Site settings
 remote_theme: "Jekyll Theme - BlogFolio"
-name: name
-email: email
-url: url
+name: Jeremiah Volkmer 
+email: jvolkmer32@gmail.com 
+url: jeremiahvolkmer.github.io 
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "Jeremiah"
+title: "Bluedog Blog"
 permalink: pretty
 baseurl: /
 
 # social
 github:
-  username: username
+  username: jeremiahvolkmer 
 
 twitter:
   username: username
