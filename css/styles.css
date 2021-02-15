@@ -31,6 +31,37 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #FF8C69;
+  background-color: #fc724e;
   color: white;
+  height: 20vh;
+}
+
+/*
+** Adding my own css
+*/
+.particles-js {
+    background: black;
+    height: 20vh;
+}
+
+.home-title{
+	
+    font-size:3rem;
+    line-height: 150px;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.home-sub-title{
+    font-size:1.25rem;
+    font-style: italic;
+    line-height: 230px;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
 }
