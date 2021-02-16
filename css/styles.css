@@ -31,7 +31,7 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #fc724e;
+  background-color: #1d4990;
   color: white;
   height: 20vh;
 }
@@ -56,12 +56,13 @@ body {
 }
 
 .home-sub-title{
-    font-size:1.25rem;
+    font-size:1.75rem;
     font-style: italic;
-    line-height: 230px;
     position: absolute;
     z-index: 999;
     margin: 0 auto;
     text-align: center;
     width: 100%;
+    top: 14%;
+    opacity: 0.65;
 }
