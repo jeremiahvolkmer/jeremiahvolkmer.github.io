@@ -39,8 +39,7 @@ body {
 /*
 ** Adding my own css below
 */
-.particles-js {
-    background: black;
+#particles-js {
     height: 20vh;
 }
 
@@ -59,10 +58,20 @@ body {
     font-size:1.75rem;
     font-style: italic;
     position: absolute;
-    z-index: 999;
+    z-index: 998;
     margin: 0 auto;
     text-align: center;
     width: 100%;
     top: 14%;
     opacity: 0.65;
+}
+.calvin {
+    position: relative;
+    width:150px;
+    height:150px;
+    z-index: 999;
+    margin: 0 auto;
+    opacity: 0.90;
+    left: 300px; 
+    top: 55px;
 }
