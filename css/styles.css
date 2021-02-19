@@ -27,6 +27,8 @@ body {
 }
 
 .is-rounded {
+  display: block;
+  margin: 0 auto;
   border-radius: 3%;
 }
 
